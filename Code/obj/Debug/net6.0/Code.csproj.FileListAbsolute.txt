@@ -1,0 +1,15 @@
+C:\RESVS\JobTest\Code\Code\bin\Debug\net6.0\Code.exe
+C:\RESVS\JobTest\Code\Code\bin\Debug\net6.0\Code.deps.json
+C:\RESVS\JobTest\Code\Code\bin\Debug\net6.0\Code.runtimeconfig.json
+C:\RESVS\JobTest\Code\Code\bin\Debug\net6.0\Code.dll
+C:\RESVS\JobTest\Code\Code\bin\Debug\net6.0\Code.pdb
+C:\RESVS\JobTest\Code\Code\obj\Debug\net6.0\Code.csproj.AssemblyReference.cache
+C:\RESVS\JobTest\Code\Code\obj\Debug\net6.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\RESVS\JobTest\Code\Code\obj\Debug\net6.0\Code.AssemblyInfoInputs.cache
+C:\RESVS\JobTest\Code\Code\obj\Debug\net6.0\Code.AssemblyInfo.cs
+C:\RESVS\JobTest\Code\Code\obj\Debug\net6.0\Code.csproj.CoreCompileInputs.cache
+C:\RESVS\JobTest\Code\Code\obj\Debug\net6.0\Code.dll
+C:\RESVS\JobTest\Code\Code\obj\Debug\net6.0\refint\Code.dll
+C:\RESVS\JobTest\Code\Code\obj\Debug\net6.0\Code.pdb
+C:\RESVS\JobTest\Code\Code\obj\Debug\net6.0\Code.genruntimeconfig.cache
+C:\RESVS\JobTest\Code\Code\obj\Debug\net6.0\ref\Code.dll
